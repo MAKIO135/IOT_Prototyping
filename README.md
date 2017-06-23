@@ -47,3 +47,13 @@ Trinkets only have 5 I/O pins, SoftwareSerial uses 2 of them. If communication b
 - [ReceiveOnlySoftwareSerial](http://gammon.com.au/Arduino/ReceiveOnlySoftwareSerial.zip)  
 
 Found in the Arduino forum thread [Using only TX of SoftwareSerial, leaving RX pin free](http://forum.arduino.cc/index.php?topic=112013.0).
+
+### Connecting services:
+- Adafruit I/O: https://io.adafruit.com/
+- Adafruit I/O Guide: https://learn.adafruit.com/adafruit-io
+- Adafruit I/O API: https://io.adafruit.com/api/docs/#!/Data/allData
+- IFTTT: https://ifttt.com/
+- IFTTT Adafruit channel:https://ifttt.com/adafruit
+- IFTTT Button widget: https://ifttt.com/do_button
+- IFTTT Android: https://play.google.com/store/apps/details?id=com.ifttt.ifttt
+- IFTTT IOS:https://itunes.apple.com/app/apple-store/id660944635?mt=8
