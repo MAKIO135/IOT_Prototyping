@@ -4,7 +4,7 @@ ___
 ### Feather HUZZAH ESP8266
 Adafruit's [Adafruit Feather HUZZAH ESP8266](https://learn.adafruit.com/adafruit-feather-huzzah-esp8266?view=all) is a great board for prototyping IOT projects, offering an ESP8266 WiFi module, USB and battery charging, built-in lipoly charger, 9 GPIOs, Serial, SPI and I2C, 2 debug leds, etc... Moreover it can be coded either in Arduino Mode, NodeMCU LUA or MicroPython.  
 
-** [Check Adafruit's guide on Feather HUZZAH ESP8266 for more](https://learn.adafruit.com/adafruit-feather-huzzah-esp8266?view=all) **
+**[Check Adafruit's guide on Feather HUZZAH ESP8266 for more](https://learn.adafruit.com/adafruit-feather-huzzah-esp8266?view=all)**
 
 ![Feather HUZZAH ESP8266 pinouts overview](https://cdn-learn.adafruit.com/assets/assets/000/041/888/large1024/adafruit_products_Huzzah_ESP8266_v1_1.png?1495562428)
 
@@ -13,7 +13,7 @@ Yet its 3.3v logic and only 1 analog input pin with ~1.0V maximum voltage can be
 ### Trinkets to the rescue
 Adafruit's [Trinket](https://learn.adafruit.com/introducing-trinket?view=all) is a low cost mini microcontroller board built around Atmel ATtiny85, offering 8K of flash, 5 I/O pins, including 3 analog inputs and 3 PWM outputs, I2C, SPI, 1 debug led and comes in 2 flavours: 3.3v or 5v logic. But Trinket does not have a Serial port connection.
 
-** [Check Adafruit's guide on Trinket for more](https://learn.adafruit.com/introducing-trinket?view=all) **
+**[Check Adafruit's guide on Trinket for more](https://learn.adafruit.com/introducing-trinket?view=all)**
 
 ![Trinket 5v pinouts overview](https://arduining.files.wordpress.com/2014/01/wpid-trinket_pinout_diagram_c.jpg)
 ![Trinket 3v pinouts overview](https://arduining.files.wordpress.com/2014/04/trinket_3v_microusb.jpg)
@@ -35,7 +35,7 @@ Trinket            Feather HUZZAH ESP8266
    if you want to power  Trinket from HUZZAH:
    5V   <-------->   BAT/USB depending on your power source
 ```
-RX and TX pins on both Trinket and HUZZAH are the one you choose for SoftwareSerial. ** Make sure you link RX on Trinket with TX on HUZZAH and TX with RX. **
+RX and TX pins on both Trinket and HUZZAH are the one you choose for SoftwareSerial. **Make sure you link RX on Trinket with TX on HUZZAH and TX with RX.**
 
 ### Code
 Have a look at [code folder](code) for different exemples with mono/bi direction communication.
