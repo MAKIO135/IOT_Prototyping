@@ -58,7 +58,7 @@ Found in the Arduino forum thread [Using only TX of SoftwareSerial, leaving RX p
 ### AdafruitIO links:
 - Adafruit I/O: https://io.adafruit.com/
 - Adafruit I/O Guide: https://learn.adafruit.com/adafruit-io
-- Adafruit I/O API: https://io.adafruit.com/api/docs/#!/Data/allData
+- Adafruit I/O API: https://io.adafruit.com/api/docs/
 ##### Using adafruitIO with JS
 ```
 var baseUrl = 'https://io.adafruit.com/api/v2',
