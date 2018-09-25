@@ -4,7 +4,7 @@
 #define RED_LED 0
 #define BLUE_LED 2
 
-SoftwareSerial mySerial( 14, 12 ); // RX, TX
+SoftwareSerial mySerial( 14, 13 ); // RX, TX
 String inputString = ""; // a string to hold incoming data
 int len = 0;
 boolean stringComplete = false;  // whether the string is complete
